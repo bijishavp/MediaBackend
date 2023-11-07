@@ -1,0 +1,101 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "caption": "Ek Villain  Galliyan ",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNC8tgae7RPDlKe4fubPW1tyfwCr2VNTAlPxhKYhDIcKG1poDchWaRJfS1CJUSnI0lBCY&usqp=CAU",
+      "url": "https://www.youtube.com/embed/UQs8odSOBEI"
+    },
+    {
+      "id": "2",
+      "caption": "Railin Oligal",
+      "thumbnail": "https://img.wynk.in/unsafe/320x180/top/http://s3.ap-south-1.amazonaws.com/wynk-music-cms/srch_hungama/3617227618269_20230913120218/3617227618269/1694587809234/resources/3617227618269.jpg",
+      "url": "https://www.youtube.com/embed/nFOjaKgVCl4"
+    },
+    {
+      "id": "3",
+      "caption": "Heeriye (Official Video) Jasleen Royal ft Arijit Singh",
+      "thumbnail": "https://i.ytimg.com/vi/RLzC55ai0eo/sddefault.jpg?v=6524f53f",
+      "url": "https://www.youtube.com/embed/RLzC55ai0eo"
+    },
+    {
+      "id": "4",
+      "caption": "Tom & Jerry | Tom & Jerry in Full Screen",
+      "thumbnail": "https://i.ytimg.com/vi/t0Q2otsqC4I/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/t0Q2otsqC4I"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryname": "Hindisongs",
+      "allvideos": []
+    },
+    {
+      "id": 2,
+      "categoryname": "Tamilsongs",
+      "allvideos": []
+    },
+    {
+      "id": "3",
+      "categoryname": "HindiAlbum",
+      "allvideos": []
+    },
+    {
+      "id": "4",
+      "categoryname": "cartoon",
+      "allvideos": [
+        {
+          "id": "4",
+          "caption": "Tom & Jerry | Tom & Jerry in Full Screen",
+          "thumbnail": "https://i.ytimg.com/vi/t0Q2otsqC4I/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/t0Q2otsqC4I"
+        }
+      ]
+    }
+  ],
+  "watch_history": [
+    {
+      "id": "1",
+      "cardName": "Ek Villain  Galliyan",
+      "url": "https://www.youtube.com/embed/UQs8odSOBEI",
+      "date": "11-02-2023"
+    },
+    {
+      "id": "1d455b41-184f-4194-8350-3b1033998d4e",
+      "cardName": "Railin Oligal",
+      "url": "https://www.youtube.com/embed/nFOjaKgVCl4",
+      "date": "2023-11-05T16:36:47.246Z"
+    },
+    {
+      "id": "ffc25062-27fc-48d1-9f9e-4477593ae92d",
+      "cardName": "Heeriye (Official Video) Jasleen Royal ft Arijit Singh",
+      "url": "https://www.youtube.com/embed/RLzC55ai0eo",
+      "date": "2023-11-06T05:20:23.225Z"
+    },
+    {
+      "id": "e6be6213-e945-4253-ae00-9531a4ab578c",
+      "cardName": "Heeriye (Official Video) Jasleen Royal ft Arijit Singh",
+      "url": "https://www.youtube.com/embed/RLzC55ai0eo",
+      "date": "2023-11-06T05:20:34.829Z"
+    },
+    {
+      "id": "d3a3d328-9afa-4ac1-889c-55c4a2e6f7b6",
+      "cardName": "Railin Oligal",
+      "url": "https://www.youtube.com/embed/nFOjaKgVCl4",
+      "date": "2023-11-06T05:20:39.277Z"
+    },
+    {
+      "id": "11e714b4-5c84-42ec-bd9d-31d4e6c7d4f9",
+      "cardName": "Railin Oligal",
+      "url": "https://www.youtube.com/embed/nFOjaKgVCl4",
+      "date": "2023-11-06T05:20:43.377Z"
+    },
+    {
+      "id": "85ab2621-5c2e-42a4-85f5-6d0bc8c3cbc3",
+      "cardName": "Tom & Jerry | Tom & Jerry in Full Screen",
+      "url": "https://www.youtube.com/embed/t0Q2otsqC4I",
+      "date": "2023-11-07T06:20:07.178Z"
+    }
+  ]
+}
